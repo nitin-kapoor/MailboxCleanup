@@ -15,20 +15,20 @@ MailboxCleanup is console C# (.Net) application which helps in cleaning the Junk
 5. Junk Folder cleanup process is based on Subject line. Few examples of Subject lines are listed below.
 #### APPROVED Subject Line Example
 * SubjectLine: `[DEV TEST ONLY]Invoice Notification - Approved Invoice - [XYZ|APPROVED|000012345678:123456:1234:121212122#123456789]`
-** Email subject line gets splits into 3 parts based on `|`
-** If second split matches `APPROVED` keyword then those emails are moved to Approved subfolder under Inbox.
+* Email subject line gets splits into 3 parts based on `|`
+* If second split matches `APPROVED` keyword then those emails are moved to Approved subfolder under Inbox.
 
 #### REJECTED Subject Line Example
 * SubjectLine: `[DEV TEST ONLY]Invoice Notification - Rejected Invoice - [XYZ|REJECTED|000012345678:123456:1234:121212122#123456789]`
-** Email subject line gets splits into 3 parts based on `|`
-** If second split matches `REJECTED` keyword then those emails are moved to Rejected subfolder under Inbox.
+* Email subject line gets splits into 3 parts based on `|`
+* If second split matches `REJECTED` keyword then those emails are moved to Rejected subfolder under Inbox.
 
 
 #### Subject Line without APPROVED or REJECTED keyword Example
 * SubjectLine: `This is a test email`
-** If subject line doesn't line doesn't contain `APPROVED` or `REJECTED` keyword then those emails are moved to Ignored subfolder under Inbox.
+* If subject line doesn't line doesn't contain `APPROVED` or `REJECTED` keyword then those emails are moved to Ignored subfolder under Inbox.
 
 #### Empty Subject Line Example
 * SubjectLine: ` `
-** If subject line is empty then those emails are moved to Ignored subfolder under Inbox.
+* If subject line is empty then those emails are moved to Ignored subfolder under Inbox.
 
