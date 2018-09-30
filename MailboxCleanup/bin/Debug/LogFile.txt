@@ -1,0 +1,158 @@
+30-09-2018 07:54:28 PM:    Loading Process Settings
+30-09-2018 07:54:28 PM:    Process Settings loaded successfully
+30-09-2018 07:54:28 PM:    Job Started
+30-09-2018 07:54:28 PM:    Creating EWS Connection
+30-09-2018 07:54:28 PM:    EWS Connection Created
+30-09-2018 07:54:28 PM:    Creating Event Subscription
+30-09-2018 07:54:28 PM:    Event Subscription Started
+30-09-2018 07:54:28 PM:    Checking Existing Emails
+30-09-2018 07:54:35 PM:    There are 6 Emails in Junk Folder
+
+30-09-2018 07:54:35 PM:    ========== Mailbox Cleanup Started ==========
+
+30-09-2018 07:54:38 PM:    [DEV TEST ONLY]Invoice Notification - Approved Invoice - [XYZ|APPROVED|000012345678:123456:1234:123456789#12345678901212]
+30-09-2018 07:54:38 PM:    Split One Subject : [EXTERNAL] [DEV TEST ONLY]Invoice Notification - Approved Invoice - [XYZ
+30-09-2018 07:54:38 PM:    Split Two Subject : APPROVED
+30-09-2018 07:54:38 PM:    Split Three Subject : 000012345678:123456:1234:123456789#12345678901212]
+30-09-2018 07:54:40 PM:    Email Moved to [APPROVED] Folder
+
+30-09-2018 07:54:42 PM:    [DEV TEST ONLY]Invoice Notification - Approved Invoice - [XYZ|APPROVED|000012345678:123456:1234:123456789#12345678901212]
+30-09-2018 07:54:42 PM:    Split One Subject : [DEV TEST ONLY]Invoice Notification - Approved Invoice - [XYZ
+30-09-2018 07:54:42 PM:    Split Two Subject : APPROVED
+30-09-2018 07:54:42 PM:    Split Three Subject : 000012345678:123456:1234:123456789#12345678901212]
+30-09-2018 07:54:44 PM:    Email Moved to [APPROVED] Folder
+
+30-09-2018 07:54:46 PM:    [DEV TEST ONLY]Invoice Notification - Approved Invoice - [XYZ|APPROVED|000012345678:123456:1234:123456789#12345678901212]
+30-09-2018 07:54:46 PM:    Split One Subject : [DEV TEST ONLY]Invoice Notification - Approved Invoice - [XYZ
+30-09-2018 07:54:46 PM:    Split Two Subject : APPROVED
+30-09-2018 07:54:46 PM:    Split Three Subject : 000012345678:123456:1234:123456789#12345678901212]
+30-09-2018 07:54:48 PM:    Email Moved to [APPROVED] Folder
+
+30-09-2018 07:54:50 PM:    Testing the email - [XYZ|APPROVED|000012345678:123456:1234:123456789#12345678901212]
+30-09-2018 07:54:50 PM:    Split One Subject : Testing the email send application & the use of ampersand - [XYZ
+30-09-2018 07:54:50 PM:    Split Two Subject : APPROVED
+30-09-2018 07:54:50 PM:    Split Three Subject : 000012345678:123456:1234:123456789#12345678901212]
+30-09-2018 07:54:52 PM:    Email Moved to [APPROVED] Folder
+
+30-09-2018 07:54:53 PM:    Testing the email - [XYZ|APPROVED|000012345678:123456:1234:123456789#12345678901212]
+30-09-2018 07:54:53 PM:    Split One Subject : Testing the email send application & the use of ampersand - [XYZ
+30-09-2018 07:54:53 PM:    Split Two Subject : APPROVED
+30-09-2018 07:54:53 PM:    Split Three Subject : 000012345678:123456:1234:123456789#12345678901212]
+30-09-2018 07:54:55 PM:    Email Moved to [APPROVED] Folder
+
+30-09-2018 07:54:57 PM:    Test - Approved Invoice - [XYZ|APPROVED|000012345678:123456:1234:123456789#12345678901212]
+30-09-2018 07:54:57 PM:    Split One Subject : Philippe A. Approval Request Test - Approved Invoice - [XYZ
+30-09-2018 07:54:57 PM:    Split Two Subject : APPROVED
+30-09-2018 07:54:57 PM:    Split Three Subject : 000012345678:123456:1234:123456789#12345678901212]
+30-09-2018 07:54:59 PM:    Email Moved to [APPROVED] Folder
+
+30-09-2018 07:54:59 PM:    ========== Mailbox Cleanup Ended ==========
+
+30-09-2018 07:55:21 PM:    Loading Process Settings
+30-09-2018 07:55:21 PM:    Process Settings loaded successfully
+30-09-2018 07:55:21 PM:    Job Started
+30-09-2018 07:55:21 PM:    Creating EWS Connection
+30-09-2018 07:55:21 PM:    EWS Connection Created
+30-09-2018 07:55:21 PM:    Creating Event Subscription
+30-09-2018 07:55:21 PM:    Event Subscription Started
+30-09-2018 07:55:21 PM:    Checking Existing Emails
+30-09-2018 07:55:28 PM:    There are 2 Emails in Junk Folder
+
+30-09-2018 07:55:28 PM:    ========== Mailbox Cleanup Started ==========
+
+30-09-2018 07:55:31 PM:    Approved
+30-09-2018 07:55:31 PM:    Subject Line doesn't contain APPROVED or REJECTED keyword. Email moved to [IGNORED] Folder
+
+30-09-2018 07:55:35 PM:    This is a test email
+30-09-2018 07:55:35 PM:    Subject Line doesn't contain APPROVED or REJECTED keyword. Email moved to [IGNORED] Folder
+
+30-09-2018 07:55:35 PM:    ========== Mailbox Cleanup Ended ==========
+
+30-09-2018 08:00:59 PM:    Loading Process Settings
+30-09-2018 08:00:59 PM:    Process Settings loaded successfully
+30-09-2018 08:00:59 PM:    Job Started
+30-09-2018 08:00:59 PM:    Creating EWS Connection
+30-09-2018 08:00:59 PM:    EWS Connection Created
+30-09-2018 08:00:59 PM:    Creating Event Subscription
+30-09-2018 08:00:59 PM:    Event Subscription Started
+30-09-2018 08:00:59 PM:    Checking Existing Emails
+30-09-2018 08:01:06 PM:    There are 0 Emails in Junk Folder
+
+30-09-2018 08:01:06 PM:    Mailbox Cleanup is not required because there are no emails in Junk folder.
+30-09-2018 09:57:19 PM:    Loading Process Settings
+30-09-2018 09:57:19 PM:    Process Settings loaded successfully
+30-09-2018 09:57:19 PM:    Job Started
+30-09-2018 09:57:19 PM:    Creating EWS Connection
+30-09-2018 09:57:19 PM:    EWS Connection Created
+30-09-2018 09:57:19 PM:    Creating Event Subscription
+30-09-2018 09:57:19 PM:    Event Subscription Started
+30-09-2018 09:57:19 PM:    Checking Existing Emails
+30-09-2018 09:57:40 PM:    There are 1 Emails in Junk Folder
+
+30-09-2018 09:57:40 PM:    ========== Mailbox Cleanup Started ==========
+
+30-09-2018 09:57:43 PM:    Subject Line is Empty. Email moved to [IGNORED] Folder
+
+30-09-2018 09:57:43 PM:    ========== Mailbox Cleanup Ended ==========
+
+30-09-2018 10:19:09 PM:    Loading Process Settings
+30-09-2018 10:19:09 PM:    Process Settings loaded successfully
+30-09-2018 10:19:09 PM:    Job Started
+30-09-2018 10:19:09 PM:    Creating EWS Connection
+30-09-2018 10:19:09 PM:    EWS Connection Created
+30-09-2018 10:19:09 PM:    Creating Event Subscription
+30-09-2018 10:19:09 PM:    Event Subscription Started
+30-09-2018 10:19:09 PM:    Checking Existing Emails
+30-09-2018 10:19:16 PM:    There are 0 Emails in Junk Folder
+
+30-09-2018 10:19:16 PM:    Mailbox Cleanup is not required because there are no emails in Junk folder.
+30-09-2018 10:19:50 PM:    Loading Process Settings
+30-09-2018 10:19:50 PM:    Process Settings loaded successfully
+30-09-2018 10:19:50 PM:    Job Started
+30-09-2018 10:19:50 PM:    Creating EWS Connection
+30-09-2018 10:19:50 PM:    EWS Connection Created
+30-09-2018 10:19:50 PM:    Creating Event Subscription
+30-09-2018 10:19:50 PM:    Event Subscription Started
+30-09-2018 10:19:50 PM:    Checking Existing Emails
+30-09-2018 10:19:57 PM:    There are 0 Emails in Junk Folder
+
+30-09-2018 10:19:57 PM:    Mailbox Cleanup is not required because there are no emails in Junk folder.
+30-09-2018 10:21:02 PM:    Loading Process Settings
+30-09-2018 10:21:02 PM:    Process Settings loaded successfully
+30-09-2018 10:21:02 PM:    Job Started
+30-09-2018 10:21:02 PM:    Creating EWS Connection
+30-09-2018 10:21:03 PM:    EWS Connection Created
+30-09-2018 10:21:03 PM:    Creating Event Subscription
+30-09-2018 10:21:03 PM:    Event Subscription Started
+30-09-2018 10:21:03 PM:    Checking Existing Emails
+30-09-2018 10:21:09 PM:    There are 0 Emails in Junk Folder
+
+30-09-2018 10:21:09 PM:    Mailbox Cleanup is not required because there are no emails in Junk folder.
+30-09-2018 10:21:39 PM:    Loading Process Settings
+30-09-2018 10:21:39 PM:    Process Settings loaded successfully
+30-09-2018 10:21:39 PM:    Job Started
+30-09-2018 10:21:39 PM:    Creating EWS Connection
+30-09-2018 10:21:40 PM:    EWS Connection Created
+30-09-2018 10:21:40 PM:    Creating Event Subscription
+30-09-2018 10:21:40 PM:    Event Subscription Started
+30-09-2018 10:21:40 PM:    Checking Existing Emails
+30-09-2018 10:21:47 PM:    There are 0 Emails in Junk Folder
+
+30-09-2018 10:21:47 PM:    Mailbox Cleanup is not required because there are no emails in Junk folder.
+30-09-2018 10:23:12 PM:    Loading Process Settings
+30-09-2018 10:23:12 PM:    Process Settings loaded successfully
+30-09-2018 10:23:12 PM:    Job Started
+30-09-2018 10:23:12 PM:    Creating EWS Connection
+30-09-2018 10:23:12 PM:    EWS Connection Created
+30-09-2018 10:23:13 PM:    Creating Event Subscription
+30-09-2018 10:23:13 PM:    Event Subscription Started
+30-09-2018 10:23:13 PM:    Checking Existing Emails
+30-09-2018 10:23:20 PM:    There are 1 Emails in Junk Folder
+
+30-09-2018 10:23:20 PM:    ========== Mailbox Cleanup Started ==========
+
+30-09-2018 10:23:24 PM:    Approved
+30-09-2018 10:23:24 PM:    Subject Line doesn't contain APPROVED or REJECTED keyword. Email moved to [IGNORED] Folder
+
+30-09-2018 10:23:24 PM:    ========== Mailbox Cleanup Ended ==========
+

@@ -1,0 +1,11 @@
+D:\WIP\ExchangeMailbox\ExchangeMailbox\bin\Release\MailboxCleanup.exe.config
+D:\WIP\ExchangeMailbox\ExchangeMailbox\bin\Release\MailboxCleanup.exe
+D:\WIP\ExchangeMailbox\ExchangeMailbox\bin\Release\MailboxCleanup.pdb
+D:\WIP\ExchangeMailbox\ExchangeMailbox\bin\Release\Microsoft.Exchange.WebServices.Auth.dll
+D:\WIP\ExchangeMailbox\ExchangeMailbox\bin\Release\Microsoft.Exchange.WebServices.dll
+D:\WIP\ExchangeMailbox\ExchangeMailbox\bin\Release\Microsoft.Exchange.WebServices.pdb
+D:\WIP\ExchangeMailbox\ExchangeMailbox\bin\Release\Microsoft.Exchange.WebServices.xml
+D:\WIP\ExchangeMailbox\ExchangeMailbox\bin\Release\Microsoft.Exchange.WebServices.Auth.pdb
+D:\WIP\ExchangeMailbox\ExchangeMailbox\bin\Release\Microsoft.Exchange.WebServices.Auth.xml
+D:\WIP\ExchangeMailbox\ExchangeMailbox\obj\Release\MailboxCleanup.exe
+D:\WIP\ExchangeMailbox\ExchangeMailbox\obj\Release\MailboxCleanup.pdb

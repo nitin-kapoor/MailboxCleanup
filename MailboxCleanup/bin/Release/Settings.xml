@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <mail_user>Your ID</mail_user>
+  <mail_pwd>Your Password</mail_pwd>
+  <mail_domain>Your Domain</mail_domain>
+  <mail_service>Exchange Account URL</mail_service>
+  <mail_server>Your Exchange Mail Server</mail_server>
+  <LogFile>LogFile.txt</LogFile>
+  <SubjectLineApproved>APPROVED</SubjectLineApproved>
+  <SubjectLineRejected>REJECTED</SubjectLineRejected>
+</root>
